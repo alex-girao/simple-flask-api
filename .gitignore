@@ -1,6 +1,7 @@
 # Others files
 *.py[co]
 *.DS_*
+.idea
 
 # Packages
 *.egg
