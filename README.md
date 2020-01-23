@@ -1,6 +1,10 @@
 # simple-flask-api
 Simple [Flask](https://flask.palletsprojects.com/en/1.1.x/quickstart/) 
 API sample
+
+## Prerequisites
+It is necessary to have Flask installed, [learn more here](https://flask.palletsprojects.com/en/1.1.x/installation/#installation)
+
 ## Quick Start
 
 To start the application is very simple.
